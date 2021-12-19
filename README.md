@@ -5,3 +5,8 @@ Projeto em Flutter, como intuito de estudo. É uma simples lista de transferênc
 ![image](https://user-images.githubusercontent.com/41458938/146662227-758efc6b-371c-44fd-b0a9-a21f315327d7.png)
 
 
+![image](https://user-images.githubusercontent.com/41458938/146662254-ea852a92-7cf8-4a98-831a-67598167e2d6.png)
+
+
+
+
