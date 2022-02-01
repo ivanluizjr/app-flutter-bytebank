@@ -4,7 +4,7 @@ Projeto em Flutter, como intuito de estudo. É uma simples lista de transferênc
 
 ##
 
-![image](https://user-images.githubusercontent.com/41458938/146662227-758efc6b-371c-44fd-b0a9-a21f315327d7.png)   
+![image](https://user-images.githubusercontent.com/41458938/152060536-840a059a-9454-4cbb-8e74-7e182fa52e4c.gif)
 
 
 
